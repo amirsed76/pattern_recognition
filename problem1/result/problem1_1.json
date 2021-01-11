@@ -1,0 +1,38 @@
+{
+  'A': {
+    'confusion_matrix': '[[980  20]\n [ 73 927]]',
+    'accuracy': 0.9535
+  },
+  'B': {
+    'confusion_matrix': '[[839 161]\n [253 747]]',
+    'accuracy': 0.793
+  },
+  'C': {
+    'confusion_matrix': '[[842 158]\n [292 708]]',
+    'accuracy': 0.775
+  },
+  'D': {
+    'confusion_matrix': '[[948  52]\n [215 785]]',
+    'accuracy': 0.8665
+  },
+  'E': {
+    'confusion_matrix': '[[909  91]\n [102 898]]',
+    'accuracy': 0.9035
+  },
+  'F': {
+    'confusion_matrix': '[[1000    0]\n [   0 1000]]',
+    'accuracy': 1.0
+  },
+  'G': {
+    'confusion_matrix': '[[959  41]\n [ 59 941]]',
+    'accuracy': 0.95
+  },
+  'H': {
+    'confusion_matrix': '[[999   0]\n [  0 999]]',
+    'accuracy': 1.0
+  },
+  'I': {
+    'confusion_matrix': '[[1000    0]\n [   0 1000]]',
+    'accuracy': 1.0
+  }
+}

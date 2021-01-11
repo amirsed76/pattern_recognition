@@ -1,0 +1,26 @@
+{
+  'A': {
+    'confusion_matrix': '[[980  20]\n [ 71 929]]',
+    'accuracy': 0.9545
+  },
+  'B': {
+    'confusion_matrix': '[[801 199]\n [201 799]]',
+    'accuracy': 0.8
+  },
+  'C': {
+    'confusion_matrix': '[[802 198]\n [193 807]]',
+    'accuracy': 0.8045
+  },
+  'D': {
+    'confusion_matrix': '[[931  69]\n [217 783]]',
+    'accuracy': 0.857
+  },
+  'E': {
+    'confusion_matrix': '[[913  87]\n [ 78 922]]',
+    'accuracy': 0.9175
+  },
+  'F': {
+    'confusion_matrix': '[[1000    0]\n [   0 1000]]',
+    'accuracy': 1.0
+  }
+}
